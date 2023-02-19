@@ -1,6 +1,6 @@
 <h1 align="center">Im Bizzy</h1>
 <h3 align="center">C++ is my babe</h3>
-<img src="https://media.discordapp.net/attachments/1067926298757963827/1076666334743646350/IMG_5989.jpg?width=351&height=468"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasterbizzy&label=Profile%20views&color=0e75b6&style=flat" alt="pasterbizzy" /> </p>
 
 - 🌱 I’m currently learning **C++**
