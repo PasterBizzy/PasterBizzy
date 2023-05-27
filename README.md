@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **https://bizzyisud.000webhostapp.com/**
+- 📫 How to reach me **https://discord.gg/printf**
 
 - ⚡ Fun fact **Am Gay (not really)**
 
