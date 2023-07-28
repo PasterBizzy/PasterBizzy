@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **https://discord.gg/printf**
+- 📫 How to reach me *u cant**
 
-- ⚡ Fun fact **Am Gay (not really)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
