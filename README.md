@@ -2,7 +2,7 @@
 <h3 align="center">C++ is my babe</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasterbizzy&label=Profile%20views&color=0e75b6&style=flat" alt="pasterbizzy" /> </p>
-
+  note: i hate this github account <3
 - 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me *u cant**
