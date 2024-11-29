@@ -53,5 +53,6 @@
   <img src="https://media.discordapp.net/attachments/1172322950033182802/1200913355196600351/caption.gif?ex=67444177&is=6742eff7&hm=2e87a2d618199096759424099c4bd31311fe089830558ec96df1a16e2b4b0710&" alt="Code GIF" width="400">
   <img src="https://cdn.discordapp.com/attachments/1187896427410632815/1307651715905884170/retuahhh.gif?ex=67444f90&is=6742fe10&hm=70e790d0725828ea60e20a324bb224a349c52ae614f98ec6ff7d423e595dd181&" alt="Code GIF" width="400">
 </div>
-
+### 🎥 **Keep It Simple**
+[![Keep it Simple](https://img.youtube.com/vi/k0qmkQGqpM8/0.jpg)](https://www.youtube.com/watch?v=k0qmkQGqpM8)
 ---
