@@ -36,8 +36,8 @@
 
 ### 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pasterbizzy&show_icons=true&hide_border=true&title_color=00ADB5&icon_color=F72585&text_color=eeeeee&bg_color=0d1117" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasterbizzy&theme=tokyonight" alt="GitHub Streaks">
+  <img src="https://github-readme-stats.vercel.app/api?username=bizzyxx&show_icons=true&hide_border=true&title_color=00ADB5&icon_color=F72585&text_color=eeeeee&bg_color=0d1117" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bizzyxx&theme=tokyonight" alt="GitHub Streaks">
 </p>
 
 ---
